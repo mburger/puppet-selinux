@@ -1,0 +1,6 @@
+name    'jumio-selinux'
+version '0.0.1'
+author  'Markus Burger'
+license 'Apache2'
+summary 'Puppet module for selinux'
+description 'This module installs and manages selinux. Check README for details.'
